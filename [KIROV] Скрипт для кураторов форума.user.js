@@ -3,7 +3,7 @@
 // @namespace    https://forum.blackrussia.online
 // @version      1.0
 // @description  curators family
-// @author       Danil_Carev
+// @author       by AQUA
 // @match        https://forum.blackrussia.online/threads/*
 // @include      https://forum.blackrussia.online/threads/
 // @grant        none
